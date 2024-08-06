@@ -1,0 +1,25 @@
+22/07
+    elaboracion del proyecto de la expocarrera
+    seguimiento del proyecto "js-controles"
+    Aprendimos como obtener valores y manejar los valores
+    creacion de un campo más llamado "Dirección" y un "alert();" a nuestra página
+23/07
+    introduccion a bootstrap un frameword conjuntos de reglas y conocimientos probados
+    a CSS que es estilo en cascadas
+    los link que se utilizan  para css para conectar con la carpeta
+    los scr  es para javascript y padding
+    margin el margen externo
+    link a la página bootstrap que nos ayuda a poner  losd estilos de css a nuestra pagina
+24/07
+    Instalación de bootstrap y otras librerias
+    demostracion de  containers de booststrap y los tipos
+    aprendimos el div es divisor, funciona como cajitas
+25/07
+    El profe nos muestra un trabajo de ejemplo referente al tema   
+    Repaso
+    Aprendimos como creamos los contenedores en VSC
+26/07
+     como hacer un ejemplo de solicitud en ChatGPT
+     El profe nos explica como es el tema de la tesis.
+     Creamos otro proyecto llamado bootstrap-forms
+    creamos un formulario

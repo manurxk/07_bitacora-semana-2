@@ -1,0 +1,24 @@
+29/07
+    Introducción a jquery
+    jquery ayuda a acortar códigos
+    Creamos otro proyecto "introducción-jquery"
+
+30/07
+    Continuación del proyecto de la clase anterior
+    se utiliza id que es la cédula de identificación de elementos
+    setTimeoud(), es una función de alto nivel 
+    Agregamos un alert y también los bordes se ponen en color rojo
+
+31/07
+   El profe nos muestra un pdf de módulos de diferentes temas para realizar en nuestra tesis.
+   validacion de inputs.
+   Ransomware daña nuestra computadora afectado todo lo que contiene
+   API es un interfaz de programación de aplicaciones
+   También aprendimos que "fetch" permite comunicarnos con el servidor, es el 
+   que nos promete cosas y json, es un formato de transferencia de información
+
+1/08
+  Expo Carrera
+
+2/08
+  Feriado
